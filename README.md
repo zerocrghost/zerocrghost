@@ -1,8 +1,26 @@
-# Blockchain + AI
+## Blockchain + AI
 
-## 🚀 FX, Crypto Trading Expert, Trading bot platform manager
-## 🚀 Artificial Intelligence Expert, Stock market and Crypto price prediction with pre-trained model with RL
-## 🚀 AI Content writing platform owner, Bittensor Subnet creator
+🛠️ Core Expertise
+🤖 AI & Quantitative Trading
+Develop high-frequency trading bots for crypto/FX using reinforcement learning (RL).
+
+Train pre-trained models for price prediction (LSTMs, Transformers, Bayesian networks).
+
+Research on-chain ML for alpha generation (e.g., NFT floor price forecasting).
+
+⚡ Crypto Bot Platform Management
+Architect scalable bot infrastructures (backtesting, execution, risk management).
+
+Optimize for low-latency arbitrage and MEV strategies.
+
+Integrate with CEX/DEX APIs (Binance, Bybit, Uniswap, etc.).
+
+🌐 Decentralized AI (Bittensor)
+Build Bittensor subnets for AI content generation and financial prediction.
+
+Design incentive mechanisms for decentralized model training.
+
+Explore federated learning on blockchain.
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zerocrghost.zerocrghost" />
 <img align="right" src="https://img.shields.io/github/followers/zerocrghost?label=Follow&style=social" />
