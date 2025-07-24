@@ -1,4 +1,4 @@
-## Hi there 👋
+## Blockchain + AI
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=zerocrghost.zerocrghost" />
 <img align="right" src="https://img.shields.io/github/followers/zerocrghost?label=Follow&style=social" />
